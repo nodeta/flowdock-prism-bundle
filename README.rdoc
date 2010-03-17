@@ -1,0 +1,3 @@
+= flowdock-prism-bundle
+
+  $ ./archive.sh
